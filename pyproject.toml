@@ -9,5 +9,9 @@ description = "Demo package for environments lecture"
 requires-python = ">=3.11"
 dependencies = [
   "numpy>=2.1",
-  "matplotlib>=3.10"
+  "matplotlib>=3.10",
+  "scipy>=1.14.1",
+  "scikit-image>=0.24",
+  "sympy>=1.13",
+  "pandas>=2.2.3",
 ]

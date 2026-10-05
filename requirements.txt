@@ -1,5 +1,1 @@
-numpy>=2.1
-matplotlib>=3.10
-scipy
-scikit-image
-sympy
+-e .
